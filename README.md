@@ -1,4 +1,4 @@
-# learning_C-_basics
+# learning_C#_basics
 introduction to the basics of C# and the framework .NET
 
 
