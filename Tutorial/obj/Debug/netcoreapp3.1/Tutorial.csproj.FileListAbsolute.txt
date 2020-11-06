@@ -1,0 +1,13 @@
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.exe
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.deps.json
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.json
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.dev.json
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.dll
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.pdb
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csprojAssemblyReference.cache
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfoInputs.cache
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfo.cs
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.dll
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.pdb
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.genruntimeconfig.cache
