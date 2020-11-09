@@ -1,0 +1,13 @@
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\obj\Debug\netcoreapp3.1\basicCalculator.csprojAssemblyReference.cache
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\obj\Debug\netcoreapp3.1\basicCalculator.AssemblyInfoInputs.cache
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\obj\Debug\netcoreapp3.1\basicCalculator.AssemblyInfo.cs
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\obj\Debug\netcoreapp3.1\basicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\bin\Debug\netcoreapp3.1\basicCalculator.exe
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\bin\Debug\netcoreapp3.1\basicCalculator.deps.json
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\bin\Debug\netcoreapp3.1\basicCalculator.runtimeconfig.json
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\bin\Debug\netcoreapp3.1\basicCalculator.runtimeconfig.dev.json
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\bin\Debug\netcoreapp3.1\basicCalculator.dll
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\bin\Debug\netcoreapp3.1\basicCalculator.pdb
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\obj\Debug\netcoreapp3.1\basicCalculator.dll
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\obj\Debug\netcoreapp3.1\basicCalculator.pdb
+C:\Users\Bastien\source\repos\HelloWorld\learning_C-_basics\basicCalculator\obj\Debug\netcoreapp3.1\basicCalculator.genruntimeconfig.cache
